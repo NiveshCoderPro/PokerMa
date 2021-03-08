@@ -1,0 +1,27 @@
+
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+#MyCarousel {
+    background-color:rgb(255, 0, 0);
+}
+#MyCarousel img {
+    height:300px;
+    margin-top:35px;
+}
+.carousel-inner p {
+    color:royalblue;
+    font-size:30px;
+    
+}
+  body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+/*Start your code from here */
